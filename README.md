@@ -1,19 +1,25 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Poetic Phrase Generator
+Create AI-generated witty and satirical poetic phrases about your favourite activities and places to visit.
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+## Features
+- Generates poetic phrases using the OpenAI API.
+- Fetches stunning background images related to the phrases from Unsplash.
+- Simple and intuitive user interface for seamless interaction.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Getting Started
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+Follow these steps to set up and run the project on your local machine.
+
+### Prerequisites
+- **Node.js** installed on your system.
+- API keys for:
+  - **OpenAI API** (for generating poetic phrases).
+  - **Unsplash API** (for fetching background images).
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Abstract-ak/poetic-phrase-generator.git
+   cd poetic-phrase-generator
 
 Happy Coding!
